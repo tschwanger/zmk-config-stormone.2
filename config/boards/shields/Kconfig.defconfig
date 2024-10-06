@@ -1,0 +1,6 @@
+if SHIELD_CALDERA_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "two_percent_milk"
+
+endif
