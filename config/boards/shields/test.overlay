@@ -1,4 +1,4 @@
-#include "two_percent_milk.dtsi"
+#include "test.dtsi"
 
 &kscan0 {
     col-gpios

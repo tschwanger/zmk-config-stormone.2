@@ -1,6 +1,6 @@
-if SHIELD_CALDERA_LEFT
+if SHIELD_TEST
 
 config ZMK_KEYBOARD_NAME
-    default "two_percent_milk"
+    default "test"
 
 endif
