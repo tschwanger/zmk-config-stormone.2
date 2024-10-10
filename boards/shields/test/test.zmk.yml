@@ -1,0 +1,9 @@
+file_format: "1"
+id: test
+name: test
+type: shield
+url: https://github.com/tschwanger/zmk-config-stormone.2
+requires:
+  - nice_nano_v2
+features:
+  - keys
